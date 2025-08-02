@@ -8,8 +8,8 @@ export default defineConfig({
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "FS-Context",
-            description: "一个易用的 ScratchExtension TypeScript 上下文"
+            title: "FS-Blog",
+            description: "科技改变世界"
         }
     },
     markdown: {
